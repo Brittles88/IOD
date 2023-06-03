@@ -1,4 +1,6 @@
 DATA
+path/data
+path/Data
 *.csv
 *.pdf
 *.pptx
